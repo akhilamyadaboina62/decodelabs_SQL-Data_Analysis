@@ -207,13 +207,7 @@ State-level performance
 Power BI dashboard
 
 👩‍💻 Author
-
-
-
 Akhila
-
-
-
 BTech Computer Science Engineering Student
 
 
